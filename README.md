@@ -3,9 +3,11 @@
 This repository supports the "Machine Learning based Multi Modal Transportation Planner" paper published at ASCE ITCD 2024.
 
 **Usage**:
+
 Clone the repository, clear the generated folder as that is where the outputs will accumulate.
 
 **Files & Folders:**
+
 The tl_ folders container tiger line shapefiles for the Census Block Groups
 
 The .csv files contain the US EPA Smart Location Database, filtered for Northern KY and Cincinnati
